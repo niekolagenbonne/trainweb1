@@ -1,0 +1,20 @@
+body {
+    background-color: #36393e;
+}
+#header{
+    height: 80px;
+    margin: 0;
+    background: url("../img/bandeau.jpg") repeat-x;
+}
+.alltext{
+    color: white;
+    position: relative;
+    top: -50px;
+    margin-left: 6%;
+    margin-right: 10%;
+    display: inline;
+}
+a {
+    text-decoration: none;
+}
+

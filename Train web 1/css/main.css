@@ -1,0 +1,37 @@
+body {
+    background-color: #36393e;
+}
+[name= titre_1] {
+    color: white;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.animals {
+    border-style: solid;
+    border-color: white;
+    width: 250px;
+    height: 250px;
+    margin-right: 10%;
+}
+.white{
+    color: white;
+}
+[name = info ]{
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 300px;
+    left: 15px;
+}
+[name = text_explicatif]{
+    position: relative;
+    top: 60px;
+    left: 30px;
+}
+[name = all_img]{
+    position: relative;
+    top: 120px;
+}

@@ -1,0 +1,34 @@
+body {
+    background-color: #36393e;
+}
+h1 {
+    color: white;
+ }
+
+p {
+    color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+[name= info] {
+    text-align: center;
+    color: white;
+    
+}
+[name= titre] {
+    text-align: center;
+}
+[name = main]{
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 310px;
+    left: 30px;
+}
