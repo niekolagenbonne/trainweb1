@@ -17,3 +17,29 @@ body {
 a {
     text-decoration: none;
 }
+[name = cat]{
+    color: white;
+    position: relative;
+    top: -50px;
+    margin-left: 6%;
+    margin-right: 10%;
+    display: inline;
+    text-decoration: underline; 
+}
+.white{
+    color: white;
+}
+.namecat{
+    text-decoration: underline;
+    color: white;
+}
+.catimg{
+    width: 40%;
+}
+.defcat{ 
+    margin-right: 60%;
+    margin-bottom: 4%;
+}
+[name = intro]{
+    margin-bottom: 5%;
+}
