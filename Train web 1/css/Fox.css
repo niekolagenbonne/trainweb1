@@ -26,3 +26,13 @@ a {
     display: inline;
     text-decoration: underline;
 }
+.ghostwhite{
+    color: ghostwhite;
+}
+[name=titre1] {
+    text-align: center;
+}
+[name= img1] {
+    text-decoration-color: white;
+    position: relative; top: 10; left: 10 
+}
